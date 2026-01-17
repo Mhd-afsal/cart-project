@@ -19,6 +19,7 @@ const Cart = () => {
    <h4>product</h4>
    <h4 className='ml-55'>Price</h4>
    <h4>Quantity</h4>
+
           </div>
      
       {
